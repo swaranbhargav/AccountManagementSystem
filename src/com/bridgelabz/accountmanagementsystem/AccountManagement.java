@@ -19,6 +19,7 @@ class AccountManagement extends Account {
 		System.out.println("Account Holder DOB: " + account.getAccountHolderDob());
 		System.out.println("Account Holder Mobile Number: " + account.getAccountHolderMobileNumber());
 		System.out.println("Account Holder Email: " + account.getAccountHolderEmail());
+
 	}
 
 	public void displayBankBalance(BankBalance bankBalance) {
